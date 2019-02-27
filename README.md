@@ -6,10 +6,10 @@ This project is based on the [reveal.js](https://revealjs.com/#/7/1) and the int
 In order to start it, you may have to have some prerequisites on your computer and the important one is have Docker installed on it.
 After that you can start the project with:
 
-##docker-compose up
+## docker-compose up
 
 For any change that you may do on the project and in order to have it reflected you need to execute:
-##docker-compose up -d
+## docker-compose up -d
 
 Clear your browser cache in case that you may not see any change applied, and to access into the slides you can go to localhost:8089
 
