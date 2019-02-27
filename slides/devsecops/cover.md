@@ -3,6 +3,14 @@
 
 ---
 
-#continuousintegration
+# DevOps
+
+------
+
+# Continuous Integration
+
+---
+
+# Continuous Delivery
 
 ---

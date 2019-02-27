@@ -2,7 +2,6 @@ version: '2'
 
 services:
   app:
-    build: .
     image: nginx 
     ports:
       - 8089:80
