@@ -1,5 +1,5 @@
 # SLIDES js 
-This project is based on the [reveal.js](https://revealjs.com/#/7/1) and the intention is enrich the content of the [Gonzalo's](https://github.com/gmlp/gmlp.github.io), this one include a docker-compose which by default contain the [build: .](https://github.com/OscarAguilera/gmlp.github.io/blob/master/docker-compose.yml) but in order to run it locally you may have to remove the (buil: .) in order to start it, thi is in case that you fork the original.
+This project is based on the [reveal.js](https://revealjs.com/#/7/1) and the intention is enrich the content of the [Gonzalo's](https://github.com/gmlp/gmlp.github.io) repo, this one include a docker-compose which by default contain the [build: .](https://github.com/OscarAguilera/gmlp.github.io/blob/master/docker-compose.yml) but in order to run it locally you may have to remove the (buil: .) in order to start it, thi is in case that you fork the original.
 
 # TO START IT
 
