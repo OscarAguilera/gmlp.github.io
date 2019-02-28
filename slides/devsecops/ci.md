@@ -22,7 +22,7 @@
 
 #  CONTINUOUS INTEGRATION
 
-<p class="fragment fade-in-then-semi-out">Let's build, but... what it's a build?</p>
+<p class="fragment fade-in-then-semi-out">Time to build, but... what it is a build?</p>
 
 
 #  CONTINUOUS INTEGRATION
@@ -51,7 +51,7 @@
 #  CONTINUOUS INTEGRATION
 
 <p class="fragment fade-in-then-semi-out">Now we have an Artifact!!!... But WTH!? is an artifact?</p>
-<p class="fragment fade-in-then-semi-out">An artifact is one of many kinds of tangible by-products produced during the development of software. Some artifacts (e.g., use cases, class diagrams, and other Unified Modeling Language (UML) models, requirements and design documents) help describe the function, architecture, and design of software. Other artifacts are concerned with the process of development itself such as project plans, business cases, and risk assessments.</p>
+<p class="fragment fade-in-then-semi-out">An artifact is one of many kinds of tangible by-products produced during the development of software. Some artifacts (e.g., use cases, class diagrams, and other Unified Modeling Language (UML) models, requirements and design documents).</p>
 
 
 #  CONTINUOUS INTEGRATION
@@ -86,7 +86,7 @@
 
 #  CONTINUOUS INTEGRATION
 
-<p class="fragment fade-in-then-semi-out">We can't have CI without automated testing.</p>
+<p class="fragment fade-in-then-semi-out">We can not have CI without automated testing.</p>
 
 
 #  CONTINUOUS INTEGRATION
@@ -134,7 +134,14 @@
 
 ##  CONTINUOUS INTEGRATION
 
-<p class="fragment fade-in-then-semi-out">![cm-tools](./img/cm-tools.png?raw=true)</p>
+<p class="fragment fade-in-then-semi-out"><img style="float: left;" src=./img/bamboo.png><!-- .element height="40%" width="40%" --></p>
+<p class="fragment fade-in-then-semi-out"><img style="float: center;" src=./img/circleci.png><!-- .element height="40%" width="40%" --></p>
+<p class="fragment fade-in-then-semi-out"><img style="float: right;" src=./img/go-cd.png><!-- .element height="20%" width="20%" --></p>
+<p class="fragment fade-in-then-semi-out"><img style="float: left;" src=./img/jenkins.png><!-- .element height="50%" width="50%" --></p>
+<p class="fragment fade-in-then-semi-out"><img style="float: center;" src=./img/stickey-logo.png><!-- .element height="40%" width="40%" --></p>
+<p class="fragment fade-in-then-semi-out"><img style="float: right;" src=./img/TeamCity.png><!-- .element height="10%" width="10%" --></p>
+<p class="fragment fade-in-then-semi-out"><img style="float: center;" src=./img/gitlabci.png><!-- .element height="20%" width="20%" --></p>
+<p class="fragment fade-in-then-semi-out"><img style="float: center;" src=./img/TravisCI.png><!-- .element height="30%" width="30%" --></p>
 
 
 ##  CONTINUOUS INTEGRATION
@@ -159,6 +166,16 @@
 <p class="fragment fade-in-then-semi-out">![splunk](./img/splunk.png?raw=true) <!-- .element height="70%" width="70%" --></p>
 <p class="fragment fade-in-then-semi-out">![elastic](./img/elastic.png?raw=true) <!-- .element height="50%" width="50%" --></p>
 <p class="fragment fade-in-then-semi-out">![stackdriver](./img/stackdriver.png?raw=true)<!-- .element height="50%" width="50%" --></p>
+
+
+# CONTINUOUS INTEGRATION
+
+<p class="fragment fade-in-then-semi-out">Benefits of Continuous Integration:</p>
+<p class="fragment fade-in-then-semi-out">Early Bug Detection: Builds that are stable and error-free.</p>
+<p class="fragment fade-in-then-semi-out">Reduces Bug Count: Depends on the effectiveness of the automated testing scripts</p>
+<p class="fragment fade-in-then-semi-out">Automating the Process: Manual effort is reduced a lot since CI automates build</p>
+<p class="fragment fade-in-then-semi-out">The process becomes Transparent:</p>
+<p class="fragment fade-in-then-semi-out">Cost-effective Process:</p>
 
 
 # CONTINUOUS INTEGRATION BEST PRACTICES
